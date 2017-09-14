@@ -1,0 +1,10 @@
+C:\Users\10011027\desktop\foreachArray\obj\Debug\netcoreapp2.0\foreachArray.csproj.CoreCompileInputs.cache
+C:\Users\10011027\desktop\foreachArray\obj\Debug\netcoreapp2.0\foreachArray.AssemblyInfoInputs.cache
+C:\Users\10011027\desktop\foreachArray\obj\Debug\netcoreapp2.0\foreachArray.AssemblyInfo.cs
+C:\Users\10011027\desktop\foreachArray\bin\Debug\netcoreapp2.0\foreachArray.deps.json
+C:\Users\10011027\desktop\foreachArray\bin\Debug\netcoreapp2.0\foreachArray.runtimeconfig.json
+C:\Users\10011027\desktop\foreachArray\bin\Debug\netcoreapp2.0\foreachArray.runtimeconfig.dev.json
+C:\Users\10011027\desktop\foreachArray\bin\Debug\netcoreapp2.0\foreachArray.dll
+C:\Users\10011027\desktop\foreachArray\bin\Debug\netcoreapp2.0\foreachArray.pdb
+C:\Users\10011027\desktop\foreachArray\obj\Debug\netcoreapp2.0\foreachArray.dll
+C:\Users\10011027\desktop\foreachArray\obj\Debug\netcoreapp2.0\foreachArray.pdb
